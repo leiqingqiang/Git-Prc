@@ -1,4 +1,9 @@
 add text
 add b-test
 
+<<<<<<< HEAD
 aaaa
+=======
+
+bbbb
+>>>>>>> v1
